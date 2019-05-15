@@ -141,7 +141,8 @@ The handle essentially displays the percentage of the file size displayed. So, t
 Note: this is also a ternary association. 
 
 ## HandleProportion
-![Handle Proportion](images/handle_proportion.png)
+Handle Proportion UML and OCL defined below.
+![Handle Proportion](images/handle_proportion.PNG)
 
 Note: it appears that OCL works as follows: 
 - Start with the word "context" to indicate we are working with a contextual detail. 
