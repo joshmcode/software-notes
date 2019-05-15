@@ -29,7 +29,7 @@ Spencer Rugaber is the designer of the course.
 > "Start where you are. Use what you have. Do what you can." - Arthur Ashe
 
 ## Conclusion
-
+Thanks to the students for going through the introduction.
 
 
 
