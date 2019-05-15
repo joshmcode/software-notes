@@ -66,11 +66,50 @@ Because of the profound impact design choices make on the end result, it is help
 Finally, it can be useful to organize software around the concept of "product lines" which is software designed in a resuable manner with customizable components. Additionally, in OO programming there is the idea of a "framework" which is a partically completed core component that can be extended in functionality through the likes of plugins or modules. 
 
 ### User Interface Design
+User design should optimize the control of the machine at the hands of the user. It should be design to "match the skills, experience, and expectations of its anticipated users."
 
+Basic design principles of User Interface Design:
+- Learnability
+- User familiarity
+- Consistency
+- Minimal surprise
+- Recoverability
+- User guidance
+- User diversity
+
+User interface design tries to answer two main question: (1) how should the user interact with the software and (2) how should information be presented to the user. 
+
+Common interaction techniques between users and computers include question and answer, direct manipulation, menu selection, for fill-in, command language, and natural language. 
+
+When designing information presentation, it's good to keep this rule in mind: 
+> A good design keeps the information presentation separate from the information itself (such as in the MVC model).
+
+Other aspects of information presentation include load time and the useage of design aspects like color to indicate key information or the state of the application to the user. A good design tip is to avoid using too many color combinations and try to take visual impaired users into consideration.
+
+There are three core activities in user interface design:
+- user analysis
+- software prototyping
+- interface evaluation
+
+If an application is going to be used in an international context, minimal change would be desired for changes in language and similar regional factors (like symbols)so the design should take this into consideration. 
+
+The use of metaphors and conceptual models (like a trash can for "delete") can make the system easier to understand and interact with. When using a metaphor, don't use more than one representation for the same concept or users could become confused. 
 
 ### Software Design Quality Analysis and Evaluation
+Attributes of quality can be broken down into... 
+
+**Runtime discernable**: Performance, security, availability, functionality, usability
+
+**Non-discernable at runtime**: modifiability, portability, reusability, testability
+
+**Intrinsic qualities**: conceptual integrity, correctness, completeness
+
+There are a number of techniques to evaluate quality, such as software design reviews, static analysis, simulation and prototyping. To measure the quality of a product, the design approach must be taken into consideration, but in general approaches can be broken up into **function based** and **object-oriented** approaches. 
+
 ### Software Design Notations
+
 ### Software Design Strategies and Methods
+
 ### Software Design Tools
 
 
