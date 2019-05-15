@@ -64,4 +64,16 @@ Coupling: the extent to which two components depend on each other for successful
 
 Cohesion: the extent to which a component has a single purpose or function. High cohesion is good. 
 
+Information hiding: encapsulating the capabilities a module has behind an abstract interface. Examples include OS access to hardware, access to a database, or even how a user interacts with a car. 
+
+Abstraction: how we deal with really large, complex ideas. Mechanisms for abstraction are shown below: 
+
+![abstraction mechanisms](images/asbstraction_mechanisms.png)
+
+Refinement: returning to the abstraction and refining down to the details. 
+
+## Design and Philosophers
+The designer Piete En related design to these four philosophers:
+
+![Philosophers and design](images/philosophers.png)
 
