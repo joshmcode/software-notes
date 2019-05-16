@@ -107,6 +107,28 @@ Attributes of quality can be broken down into...
 There are a number of techniques to evaluate quality, such as software design reviews, static analysis, simulation and prototyping. To measure the quality of a product, the design approach must be taken into consideration, but in general approaches can be broken up into **function based** and **object-oriented** approaches. 
 
 ### Software Design Notations
+As an introductional view of design notation, there are many notation approaches and methods with differing purposes. Some describe structural aspects of the software, while others describe behavioral. Some notations are used specifically for certain design methods, and design often uses multiple notations. This can be divided up into two types of notation: structural (static) and behavioral (dynamic). 
+
+**Static Notations**:
+- Architecture description languages (ADLs)
+- Class and object diagrams
+- Component diagrams
+- Class responsibility collaborator cards (CRCs)
+- Deployment diagrams
+- Entity-relationship diagrams (ERDs)
+- Interface description languages (IDLs)
+- Structure charts
+
+**Behaviorial Descriptions (Dynamic View)**: Note that many of these notations are especially useful during the detailed design periods. It can also provide reasons for certain decisions that were made.
+- Activity diagrams
+- Communication diagrams
+- Data flow diagrams (DFDs)
+- Decision tables and diagrams
+- Flowcharts
+- Sequence diagrams
+- State transition and state chart diagrams
+- Formal specification languages
+- Pseudo code and program design languages (PDLs)
 
 ### Software Design Strategies and Methods
 
