@@ -131,7 +131,21 @@ As an introductional view of design notation, there are many notation approaches
 - Pseudo code and program design languages (PDLs)
 
 ### Software Design Strategies and Methods
+General strategies and methods differ in that methods are more specific
+
+**General strategies** use terms such as divide-and-conquer, stepwise refinement, top-down, bottom-up, heuristics, patterns and pattern languages, and finally, iterative and/or incremental approaches. 
+
+ **Methods** differ from strategies because they provide (1) notations, (2) the process when executing the method, (3) guidelines for using that method. Examples include:
+  - Function-Oriented (Structured) Design methods
+  - Object-Oriented Design
+  - Data Strcture-Centered Design
+  - Component-Based Design (CBD)
+  - Other Methods (Iterative and adaptive methods, aspect-oriented design)
 
 ### Software Design Tools
-
+Software design tools can do the following:
+- translate requirements into designs
+- represent functional components and their interfaces
+- implementation of heuristics refinement and partitioning
+- provide a way to provide quality assessment
 
