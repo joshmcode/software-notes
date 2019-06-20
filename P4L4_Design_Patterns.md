@@ -77,5 +77,5 @@ Questions:
   1. [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/qid=1136215935/sr=8-1/ref=pd_bbs_1/104-9753716-9478358?n=507846&s=books&v=glance)
   2. [Patterns](https://hillside.net/patterns)
   3. [GT SAD Gamma](https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6310/readings/gt-sad-gamma.pdf) (note this is also stored in this repository)
-  4. []()
-  5. []()
+  4. [A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure Series) ](https://www.amazon.com/Pattern-Language-Buildings-Construction-Environmental/dp/0195019199)
+  5. [Generative Programming: Methods, Tools, and Applications 1st Edition](https://www.amazon.com/exec/obidos/tg/detail/-/0201309777/qid=1122241608/sr=8-1/ref=pd_bbs_1/104-9617161-2848728?v=glance&s=books&n=507846)
