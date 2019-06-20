@@ -1,4 +1,4 @@
-# P4L4 Introduction
+# P4L4 Design Patterns
 
 ## Design Patterns
 Common design solutions to a problem in context. 
@@ -72,3 +72,10 @@ Questions:
 - Can I, without looking them up, formally describe them and give the key features of each? 
 - How many design patterns do I apply to a given problem when working? 
 - The only way to learn them is to apply them
+
+## Resources
+  1. [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/gp/product/0201633612/qid=1136215935/sr=8-1/ref=pd_bbs_1/104-9753716-9478358?n=507846&s=books&v=glance)
+  2. [Patterns](https://hillside.net/patterns)
+  3. [GT SAD Gamma](https://s3.amazonaws.com/content.udacity-data.com/courses/gt-cs6310/readings/gt-sad-gamma.pdf) (note this is also stored in this repository)
+  4. []()
+  5. []()
