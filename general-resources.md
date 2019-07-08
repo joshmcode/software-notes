@@ -17,5 +17,8 @@ An interesting note about the line between simple and chaotic, (which is represe
 ### The Coming Software Apocalypse
 This article explores the vast complexity of our software-driven world and how some people are trying to prevent future catastrophe. 
 
+This quote sums it up well: 
+> There will be more bad days for software. It's important that we get better at making it, because if we don't, and as software becomes more sophisticated and connected—as it takes control of more critical functions—those days could get worse.
+
 [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
