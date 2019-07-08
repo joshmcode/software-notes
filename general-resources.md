@@ -14,3 +14,8 @@ An interesting note about the line between simple and chaotic, (which is represe
 
 [The Cynefin Framework: link to YouTube video](https://www.youtube.com/watch?v=N7oz366X0-8)
 
+### The Coming Software Apocalypse
+This article explores the vast complexity of our software-driven world and how some people are trying to prevent future catastrophe. 
+
+[The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
+
