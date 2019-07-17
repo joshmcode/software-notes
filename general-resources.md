@@ -22,3 +22,14 @@ This quote sums it up well:
 
 [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
+### Software Development Using Components
+Abstract from paper: 
+> Abstract—Component-based development (CBD) is an important emerging topic in software engineering, promising long-sought-afterbenefits like increased reuse, reduced time to market, and, hence, reduced software production cost. The cornerstone of a CBDtechnology is its underlying software component model, which defines components and their composition mechanisms. Currentmodels use objects or architectural units as components. These are not ideal for component reuse or systematic composition. In thispaper, we survey and analyze current component models and classify them into a taxonomy based on commonly accepted desideratafor CBD. For each category in the taxonomy, we describe its key characteristics and evaluate them with respect to these desiderata
+
+See resources folder.
+
+### Book: Component Software: Beyond Object-Oriented Programming
+Description
+> With the advent of new enabling technologies, the need for the information put forth in this new edition is greater than ever. Component Software, Second Edition explains what the key software component technologies are, how to use them properly, and why they are important to a development organization. Furthermore, the author presents this material in terms of both the technical and business issues involved with the adoption of component-based software engineering. The book defines components and clarifies the key questions surrounding them, demonstrating how components can be the key to successful software design and construction.
+
+From [https://www.amazon.com/Component-Software-Object-Oriented-Programming-Addison-Wesley/dp/032175302X](https://www.amazon.com/Component-Software-Object-Oriented-Programming-Addison-Wesley/dp/032175302X)
