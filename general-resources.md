@@ -32,4 +32,4 @@ Paper inside of [Documents folder](https://github.com/joshmcode/software-notes/b
 Description
 > With the advent of new enabling technologies, the need for the information put forth in this new edition is greater than ever. Component Software, Second Edition explains what the key software component technologies are, how to use them properly, and why they are important to a development organization. Furthermore, the author presents this material in terms of both the technical and business issues involved with the adoption of component-based software engineering. The book defines components and clarifies the key questions surrounding them, demonstrating how components can be the key to successful software design and construction.
 
-From [https://www.amazon.com/Component-Software-Object-Oriented-Programming-Addison-Wesley/dp/032175302X](https://www.amazon.com/Component-Software-Object-Oriented-Programming-Addison-Wesley/dp/032175302X)
+From [Component Software: Beyond Object-Oriented Programming, 2/E (Addison-wesley Component Software)](https://www.amazon.com/Component-Software-Object-Oriented-Programming-Addison-Wesley/dp/032175302X)
