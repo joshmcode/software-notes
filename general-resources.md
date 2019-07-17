@@ -26,7 +26,7 @@ This quote sums it up well:
 Abstract from paper: 
 > Abstract—Component-based development (CBD) is an important emerging topic in software engineering, promising long-sought-afterbenefits like increased reuse, reduced time to market, and, hence, reduced software production cost. The cornerstone of a CBDtechnology is its underlying software component model, which defines components and their composition mechanisms. Currentmodels use objects or architectural units as components. These are not ideal for component reuse or systematic composition. In thispaper, we survey and analyze current component models and classify them into a taxonomy based on commonly accepted desideratafor CBD. For each category in the taxonomy, we describe its key characteristics and evaluate them with respect to these desiderata
 
-See resources folder.
+Paper inside of [Documents folder](https://github.com/joshmcode/software-notes/blob/master/documents/gt-sad-wang-paper.pdf).
 
 ### Book: Component Software: Beyond Object-Oriented Programming
 Description
