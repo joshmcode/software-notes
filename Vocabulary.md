@@ -41,7 +41,13 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 > Definition
 
 ### Erudition
-The quality of having or showing great knowledge or learning; scholarship.
+> The quality of having or showing great knowledge or learning; scholarship.
+
+### Asceticism
+> Definition
+
+### Monasticism
+> Definition
 
 ## References
   1. [25 Ways to Improve Your Writing Vocabulary](https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html)
