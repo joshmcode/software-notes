@@ -49,5 +49,12 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 ### Monasticism
 > Definition
 
+### Menagerie
+> a collection of wild animals kept in captivity for exhibition or a strange or diverse collection of people or things
+
+### Sour Grapes
+(noun)
+> Bad behavior that happens because someone else is more successful or because you don't receive something you wanted, but instead you pretend that you never wanted it to start with.
+
 ## References
   1. [25 Ways to Improve Your Writing Vocabulary](https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html)
