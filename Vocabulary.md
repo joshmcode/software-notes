@@ -65,6 +65,9 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 ### Deterministic
 > Relating to the philosophical doctrine that all events, including human action, are ultimately determined by causes regarded as external to the will.
 
+### Nondeterministic Environment
+> one in which actions are  characterized by their possible outcomes, but no probabilities are attached to them.
+
 ### Stochastic
 > Randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.
 
