@@ -71,5 +71,9 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 ### Stochastic
 > Randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.
 
+### Discrete
+Note: different than "discreet"
+> Individually separate and distinct.
+
 ## References
   1. [25 Ways to Improve Your Writing Vocabulary](https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html)
