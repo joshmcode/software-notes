@@ -62,5 +62,11 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 (adverb)
 > in a way based on theoretical deduction rather than empirical observation.
 
+### Deterministic
+> Relating to the philosophical doctrine that all events, including human action, are ultimately determined by causes regarded as external to the will.
+
+### Stochastic
+> Randomly determined; having a random probability distribution or pattern that may be analyzed statistically but may not be predicted precisely.
+
 ## References
   1. [25 Ways to Improve Your Writing Vocabulary](https://wordcounter.net/blog/2014/01/22/1027_25-ways-to-improve-your-writing-vocabulary.html)
