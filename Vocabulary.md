@@ -7,6 +7,10 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 
 ## Words
 
+### Salient
+(adjective)
+> Most noticeable or important.
+
 ### Invariant
 > Never changing. In mathematics a function, quantity, or property which remains unchanged whena  specified transformation is applied. 
 
