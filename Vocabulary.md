@@ -7,6 +7,14 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 
 ## Words
 
+### Upper bound
+(noun)
+> An element greater than or equal to all the elements in a given set: 3 and 4 are upper bounds of the set consisting of 1, 2, and 3
+
+### Lower bound
+(noun) 
+> An element less than or equal to all the elements in a given set: The numbers 0 and 1 are lower bounds of the set consisting of 1, 2, and 3.
+
 ### Quiescent
 (adjective)
 > in a state or period of inactivity or dormancy.
