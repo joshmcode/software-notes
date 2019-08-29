@@ -7,6 +7,10 @@ Perhaps I will never learn a second language, but perhaps I can become a true ma
 
 ## Words
 
+### Quiescent
+(adjective)
+> in a state or period of inactivity or dormancy.
+
 ### Salient
 (adjective)
 > Most noticeable or important.
